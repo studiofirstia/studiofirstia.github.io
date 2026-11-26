@@ -1,0 +1,6 @@
+{
+  "_help": "냥냥 공지·업데이트 알림. minVersion 보다 낮은 versionCode 는 꼭 업데이트 창, latestVersion 보다 낮으면 새 버전 안내(한 번). notices 의 id 는 새 공지마다 새로 짓기(본 사람은 다시 안 뜸), until 이 지나면 안 뜸. texts 는 lang 별(ko,en,ja,zh-TW,zh-CN,es,pt-BR,fr,de,id,tr), 없으면 en → 첫 번째.",
+  "minVersion": 1,
+  "latestVersion": 1,
+  "notices": []
+}
